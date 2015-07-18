@@ -18,7 +18,7 @@ public class SelectionSort {
         return arr;
     }
      
-    public static void main(String a[]){
+    public static void main(String args[]){
          
 	int arr1 [], size; 
 	Scanner input = new Scanner(System.in);
